@@ -2,7 +2,7 @@
 
 -  Myself Liyana 😊
 - 🎓 University of Glasgow, MSC Bioinformatics
-- I am trained in PYthon, BAsh, SQL and R
+- I am trained in Python, BASH, SQL and R
 - Right now on a Mission to upskill myself💪 
 - 📫 How to reach me: email : Liyanaps17@gmail.com
    LinkedIn: https://www.linkedin.com/in/liyana-saleem/
